@@ -1,0 +1,8 @@
+streamlit
+google-generativeai
+python-dotenv ##To oad all the environment variables
+langchain ## because we need to read the PDFs and langchain has lot onctionalities to do the same.
+PyPDF2 ##for reading
+chromadb 
+faiss-cpu ## will use this if u hv more files and want to do parallel processing u can use "faiss-gpu"
+langchain_google_genai ##with help of langchain you will be able to access the APIs of Google generative AI.  
